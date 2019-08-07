@@ -1,3 +1,8 @@
+#|
+In this file 'velocity-H2O-01444-G15-L10.out' such as other .out commands are essentially names of the files that I needed to generate
+after that 'yes no no' are the answers towards requests made by software. axis() is the part of the geometry which I built, and
+mentioning software to plot the instance of real time graph at that part of the geometry 
+|#
 ;
 /file/read-case-data TPF_Con-01444_G_15_L10.cas yes
 /plot/plot yes velocity-H2O-01444-G15-L10.out yes no no phase-water velocity-magnitude yes 1 0 axis()
